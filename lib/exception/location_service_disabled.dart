@@ -1,0 +1,2 @@
+class GeoLocationServiceDisabled implements Exception{
+}
